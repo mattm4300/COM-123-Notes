@@ -49,5 +49,15 @@
 * (DEF) [**Thesis**]: the concise summary of our topic and specific speech goal. (Usually 1 sentence.)
 
 ## INTRODUCTIONS AND CONCLUSIONS
-* test
-	* test
+* In an essay, a thesis can be long and complex, but in a speech a thesis needs to be concise so that listeners can easily recognize and remember it.
+* The first thing we say during a speech is called the "attention-getting device."
+* (DEF) [Body]: a section of a speech that clarifies and justifies the thesis statement.
+
+## OVERCOMING SPEECH ANXIETY
+* (DEF) [Glossophobia]: The fear of public speaking.
+
+## COMMUNICATION APPREHENSION AND WHY IT MATTERS
+* (DEF) [Communication Apprehension]: individual level of fear or anxiety associated with either real or anticipated communication with another person or persons.
+
+## DECREASING COMMUNICATION APPREHENSION
+* 
