@@ -60,4 +60,11 @@
 * (DEF) [Communication Apprehension]: individual level of fear or anxiety associated with either real or anticipated communication with another person or persons.
 
 ## DECREASING COMMUNICATION APPREHENSION
-* 
+* Focus on communicating rather than performing.  You're not going to be judged by the audience really for what you say, they just want to be communicated with effectively.
+* Six tips to help with communication apprehension:
+	* Prepare early
+	* Go to bed early the night before.
+	* Arrive early and talk to people.
+	* After arriving to class, put away all your notes. (Useless at that point to try and make improvements.)
+	* Don't let little mistakes derail concentration.
+	* Practice in front of actual people, such as roommates, friends, and significant other beforehand.
